@@ -1,0 +1,4 @@
+task,fixed_p90,fixed_p99,ours_p90,ours_p99,p90_reduction_percent,p99_reduction_percent
+IQA,0.0156,0.0235,0.0026,0.0034,83.3,85.5
+Age estimation,0.2003,0.3840,0.0612,0.0874,69.4,77.2
+Crowd counting,0.0393,0.0608,0.0065,0.0082,83.5,86.5

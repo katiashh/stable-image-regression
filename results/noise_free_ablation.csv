@@ -1,0 +1,7 @@
+task,method,clean_MSE,clean_B,attacked_MSE,attacked_B
+IQA,Complete,0.0108,0.0013,0.0109,0.0014
+IQA,Noise-free,0.0102,0.0174,0.1748,0.0097
+Age estimation,Complete,0.0773,0.0411,0.0846,0.0417
+Age estimation,Noise-free,0.0215,0.0458,0.1573,0.0342
+Crowd counting,Complete,0.0067,0.0026,0.0069,0.0026
+Crowd counting,Noise-free,0.0041,0.0124,0.1447,0.0080

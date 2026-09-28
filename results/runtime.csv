@@ -1,0 +1,25 @@
+task,method,N,sigma,resolution,time_per_image_s,fps,repeats,test_images,warmup_runs
+IQA,learned_aggregation,1,0.1,512x384,0.0350,28.581,10,10,2
+IQA,fixed_mean,1,0.1,512x384,0.0340,29.414,10,10,2
+IQA,learned_aggregation,64,0.1,512x384,0.7695,1.300,10,10,2
+IQA,fixed_mean,64,0.1,512x384,0.7649,1.307,10,10,2
+IQA,learned_aggregation,128,0.1,512x384,2.4344,0.411,10,10,2
+IQA,fixed_mean,128,0.1,512x384,2.4251,0.412,10,10,2
+IQA,learned_aggregation,256,0.1,512x384,5.4525,0.183,10,10,2
+IQA,fixed_mean,256,0.1,512x384,5.4436,0.184,10,10,2
+Age estimation,learned_aggregation,1,0.1,64x64,0.0047,213.186,10,10,2
+Age estimation,fixed_mean,1,0.1,64x64,0.0042,237.343,10,10,2
+Age estimation,learned_aggregation,64,0.1,64x64,0.0186,53.859,10,10,2
+Age estimation,fixed_mean,64,0.1,64x64,0.0181,55.300,10,10,2
+Age estimation,learned_aggregation,128,0.1,64x64,0.0369,27.128,10,10,2
+Age estimation,fixed_mean,128,0.1,64x64,0.0362,27.639,10,10,2
+Age estimation,learned_aggregation,256,0.1,64x64,0.0727,13.751,10,10,2
+Age estimation,fixed_mean,256,0.1,64x64,0.0723,13.838,10,10,2
+Crowd counting,learned_aggregation,1,0.1,native,0.0476,21.013,10,10,2
+Crowd counting,fixed_mean,1,0.1,native,0.0474,21.078,10,10,2
+Crowd counting,learned_aggregation,64,0.1,native,8.4552,0.118,10,10,2
+Crowd counting,fixed_mean,64,0.1,native,8.4823,0.118,10,10,2
+Crowd counting,learned_aggregation,128,0.1,native,17.1531,0.058,10,10,2
+Crowd counting,fixed_mean,128,0.1,native,17.1332,0.058,10,10,2
+Crowd counting,learned_aggregation,256,0.1,native,34.2993,0.029,10,10,2
+Crowd counting,fixed_mean,256,0.1,native,34.1805,0.029,10,10,2

@@ -1,0 +1,73 @@
+task,split,setting,method,MSE,B
+IQA,Clean,Easy,Mean,0.0148,0.0053
+IQA,Clean,Easy,TrimMean,0.0148,0.0053
+IQA,Clean,Easy,Median,0.0148,0.0053
+IQA,Clean,Easy,Ours,0.0101,0.0007
+IQA,Clean,Medium,Mean,0.0246,0.0102
+IQA,Clean,Medium,TrimMean,0.0246,0.0102
+IQA,Clean,Medium,Median,0.0246,0.0102
+IQA,Clean,Medium,Ours,0.0108,0.0013
+IQA,Clean,Hard,Mean,0.0364,0.0189
+IQA,Clean,Hard,TrimMean,0.0365,0.0189
+IQA,Clean,Hard,Median,0.0365,0.0189
+IQA,Clean,Hard,Ours,0.0111,0.0023
+IQA,Attacked,Easy,Mean,0.0193,0.0055
+IQA,Attacked,Easy,TrimMean,0.0193,0.0055
+IQA,Attacked,Easy,Median,0.0193,0.0055
+IQA,Attacked,Easy,Ours,0.0103,0.0007
+IQA,Attacked,Medium,Mean,0.0272,0.0103
+IQA,Attacked,Medium,TrimMean,0.0272,0.0103
+IQA,Attacked,Medium,Median,0.0273,0.0103
+IQA,Attacked,Medium,Ours,0.0109,0.0014
+IQA,Attacked,Hard,Mean,0.0377,0.0191
+IQA,Attacked,Hard,TrimMean,0.0377,0.0191
+IQA,Attacked,Hard,Median,0.0378,0.0191
+IQA,Attacked,Hard,Ours,0.0112,0.0023
+Age estimation,Clean,Easy,Mean,0.1309,0.0496
+Age estimation,Clean,Easy,TrimMean,0.1311,0.0496
+Age estimation,Clean,Easy,Median,0.1312,0.0496
+Age estimation,Clean,Easy,Ours,0.0683,0.0204
+Age estimation,Clean,Medium,Mean,0.1521,0.1050
+Age estimation,Clean,Medium,TrimMean,0.1527,0.1050
+Age estimation,Clean,Medium,Median,0.1531,0.1050
+Age estimation,Clean,Medium,Ours,0.0773,0.0411
+Age estimation,Clean,Hard,Mean,0.1898,0.1901
+Age estimation,Clean,Hard,TrimMean,0.1914,0.1901
+Age estimation,Clean,Hard,Median,0.1924,0.1901
+Age estimation,Clean,Hard,Ours,0.0499,0.0381
+Age estimation,Attacked,Easy,Mean,0.2345,0.0609
+Age estimation,Attacked,Easy,TrimMean,0.2354,0.0609
+Age estimation,Attacked,Easy,Median,0.2361,0.0609
+Age estimation,Attacked,Easy,Ours,0.0781,0.0208
+Age estimation,Attacked,Medium,Mean,0.2070,0.1152
+Age estimation,Attacked,Medium,TrimMean,0.2083,0.1152
+Age estimation,Attacked,Medium,Median,0.2092,0.1152
+Age estimation,Attacked,Medium,Ours,0.0846,0.0417
+Age estimation,Attacked,Hard,Mean,0.2129,0.1932
+Age estimation,Attacked,Hard,TrimMean,0.2150,0.1932
+Age estimation,Attacked,Hard,Median,0.2164,0.1932
+Age estimation,Attacked,Hard,Ours,0.0515,0.0383
+Crowd counting,Clean,Easy,Mean,0.0321,0.0123
+Crowd counting,Clean,Easy,TrimMean,0.0321,0.0123
+Crowd counting,Clean,Easy,Median,0.0321,0.0123
+Crowd counting,Clean,Easy,Ours,0.0066,0.0013
+Crowd counting,Clean,Medium,Mean,0.0323,0.0249
+Crowd counting,Clean,Medium,TrimMean,0.0324,0.0249
+Crowd counting,Clean,Medium,Median,0.0324,0.0249
+Crowd counting,Clean,Medium,Ours,0.0067,0.0026
+Crowd counting,Clean,Hard,Mean,0.0333,0.0503
+Crowd counting,Clean,Hard,TrimMean,0.0333,0.0503
+Crowd counting,Clean,Hard,Median,0.0333,0.0503
+Crowd counting,Clean,Hard,Ours,0.0066,0.0052
+Crowd counting,Attacked,Easy,Mean,0.0351,0.0142
+Crowd counting,Attacked,Easy,TrimMean,0.0351,0.0142
+Crowd counting,Attacked,Easy,Median,0.0352,0.0142
+Crowd counting,Attacked,Easy,Ours,0.0069,0.0013
+Crowd counting,Attacked,Medium,Mean,0.0350,0.0224
+Crowd counting,Attacked,Medium,TrimMean,0.0350,0.0224
+Crowd counting,Attacked,Medium,Median,0.0351,0.0224
+Crowd counting,Attacked,Medium,Ours,0.0069,0.0026
+Crowd counting,Attacked,Hard,Mean,0.0374,0.0526
+Crowd counting,Attacked,Hard,TrimMean,0.0374,0.0526
+Crowd counting,Attacked,Hard,Median,0.0375,0.0526
+Crowd counting,Attacked,Hard,Ours,0.0073,0.0054
