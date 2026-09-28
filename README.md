@@ -22,12 +22,6 @@ pip install -r requirements.txt
 
 The experiments require a CUDA-enabled PyTorch installation. Install the PyTorch build compatible with the CUDA driver before installing the remaining packages if the default pip build is not suitable for your system.
 
-## Data and checkpoints
-
-Datasets and pretrained checkpoints are not included in this repository. See [`data/README.md`](data/README.md) for the expected directory structure and the required files.
-
-The scripts use paths relative to the repository root, usually under `data/`. Large model checkpoints should be downloaded separately and should not be committed to GitHub.
-
 ## Main scripts
 
 The main scripts are in [`scripts/`](scripts/):
